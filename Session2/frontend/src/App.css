@@ -1,0 +1,27 @@
+body {
+  background: #dedede;
+}
+
+.navbar {
+  background: #ffffff;
+}
+
+.main_content{
+  margin-top: 20px;
+}
+
+.girl_image {
+  background: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 1px 1px #aaaaaa;
+}
+
+.girl_image img{
+  margin-bottom: 10px;
+}
+
+.girl_image h5,
+.girl_image p{
+  padding: 0 10px;
+  margin-bottom: 10px;
+}
